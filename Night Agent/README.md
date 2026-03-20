@@ -108,4 +108,8 @@ This challenge is based on real-world forensic techniques using printer tracking
 
 It was inspired by a scene in *The Night Agent* (Season 2, Episode 6), where investigators decode Yellow Tracking Dots of some confidential leaked documents to trace a printer’s serial number, identify its location through a database of registered devices, and use surveillance footage to find who was the leaker.
 
+![Frame0](screenshots/0.png)
 
+![Frame1](screenshots/1.png)
+
+![Frame2](screenshots/2.png)
