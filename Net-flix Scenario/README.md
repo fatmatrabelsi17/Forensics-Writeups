@@ -294,12 +294,11 @@ XOR → Base64 → Gzip
 
 We open the decrypted file and get the card number and security code.
 
-```
+
 
 ## Answer
 ```
 Pioneer25{4868719196829038_344}
 ```
 
----
 
